@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T01:38:24.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="20.8.3" etag="vdAi8pGjbGpiLuECEMWv" type="github"><diagram id="fFYQ85wa8RqjiFgLAHwC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-16T01:44:31.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="20.8.3" etag="MY2AGI_6CM3xhgKmAD0R" type="github">
+  <diagram id="KcOdMcaT9-WpYAHTeAKj" name="第 1 页">
+    <mxGraphModel dx="1687" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-1" target="Z0rqiu80-FCKTHqrig9m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-1" value="&lt;font&gt;&lt;font&gt;用户支付 &lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;支付用户 &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-3" target="Z0rqiu80-FCKTHqrig9m-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-3" value="&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;支付模块 &lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;模块支付 &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;支付&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-5" target="Z0rqiu80-FCKTHqrig9m-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-5" target="Z0rqiu80-FCKTHqrig9m-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-5" value="&lt;font&gt;订单生成 &lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;生成&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-7" target="Z0rqiu80-FCKTHqrig9m-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-7" value="&lt;font&gt;状态订单修改 &lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;修改&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-9" value="&lt;font&gt;支付成功&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;正文&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="465" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-10" value="&lt;font&gt;30分钟未支付订单取消&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;3&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;display: none !important;&quot;&gt;3&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0rqiu80-FCKTHqrig9m-12" target="Z0rqiu80-FCKTHqrig9m-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-12" value="&lt;font&gt;&lt;font&gt;商家&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;状态订单修改 &lt;/font&gt;&lt;/font&gt;&lt;font&gt;发货&lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;修改&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0rqiu80-FCKTHqrig9m-14" value="&lt;font&gt;完成收货购买 &lt;/font&gt;&lt;font style=&quot;display: none !important;&quot;&gt;收货&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
